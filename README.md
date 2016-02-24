@@ -1,6 +1,6 @@
 # 台灣 縣市，鄉鎮，地址 中英文 JSON
 
-[[https://github.com/donma/TaiwanAddressCityAreaRoadChineseEnglishJSON/blob/master/preview.png?raw=true|alt=預覽]]
+![alt 預覽](https://github.com/donma/TaiwanAddressCityAreaRoadChineseEnglishJSON/blob/master/preview.png?raw=true)
 
 一個Json，整理台灣縣市，其中包含 縣市裡面所屬的鄉鎮(包含郵遞區號)跟路名，重點是加上英文翻譯
 
