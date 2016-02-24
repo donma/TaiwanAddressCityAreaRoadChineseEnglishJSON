@@ -2,9 +2,9 @@
 
 ![alt 預覽](https://github.com/donma/TaiwanAddressCityAreaRoadChineseEnglishJSON/blob/master/preview.png?raw=true)
 
-一個Json，整理台灣縣市，其中包含 縣市裡面所屬的鄉鎮(包含郵遞區號)跟路名，重點是加上英文翻譯
+一個JSON file，整理台灣縣市，其中包含 縣市裡面所屬的鄉鎮(包含郵遞區號)跟路名，重點是加上英文翻譯
 
-其中包含校正四百多個罕見字路名，姑且就公開大家要幫忙改得更好更精確就麻煩大家了。
+其中包含校正四百多個罕見字路名+英文翻譯(弄到想罵髒話)，姑且就公開大家要幫忙改得更好更精確就麻煩大家了。
 
 感謝 Eleven Hsiao , Pansy Pan 幫忙校搞跟資料提供
 
