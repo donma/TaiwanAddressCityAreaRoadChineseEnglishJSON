@@ -12,3 +12,8 @@
 
 資料參考:
 http://www.post.gov.tw/post/internet/Download/all_list.jsp?ID=2201#dl_txt_s_A0206
+
+
+## License
+
+This project is licensed under the MIT License.
